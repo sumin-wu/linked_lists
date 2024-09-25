@@ -7,7 +7,6 @@ struct DEItem {
     int val;
     DEItem* prev;
     DEItem* next;
-    // Feel free to add a constructor if you desire
 };
 
 class DEList {
